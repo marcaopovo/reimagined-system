@@ -1,3 +1,4 @@
+![](https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg)
 #banner {
 	width:100%;
 }
@@ -8,7 +9,7 @@
 }
 
 .titulo-principal {
-	padding-left: 20px;
+	padding-left: 20px;https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg
 }
 
 .titulo-centralizado {
