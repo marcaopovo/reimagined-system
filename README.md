@@ -23,7 +23,7 @@ p {
 #missao {
 	font-size: 20px
 }
-
+![](https://smee.com.br/mario/logo-branco.png)
 em strong {
 	color: #FF0000;
 }
